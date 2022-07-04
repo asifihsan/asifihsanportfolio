@@ -1295,3 +1295,9 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+#name-error, #email-error, #msg-error,#sub-error{
+  color: darkred;
+  font-weight: bold;
+  font-size: 0.8em;
+}
